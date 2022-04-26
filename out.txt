@@ -1,0 +1,3 @@
+<OpenEntity> -> [Open:UNK] [first:B-positional] [pdf:B-object_type] [from:UNK] [Downloads:B-dirname] [folder:UNK]
+<AddToNotes> -> [Remind:UNK] [me:UNK] [to:B-note] [change:I-note] [the:I-note] [formatting:B-entity_name]
+<MoveEntity> -> [Move:UNK] [model:B-object_name] [from:UNK] [desktop:B-from_dirname] [to:UNK] [windows:B-to_dirname]

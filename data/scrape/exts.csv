@@ -1,0 +1,147 @@
+extensions,categories
+wpd,Text
+txt,Text
+tex,Text
+rtf,Text
+pdf,Text
+odt,Text
+docx,Text
+doc,Text
+wmv,Video
+vob,Video
+swf,Video
+rm,Video
+mpeg,Video
+mpg,Video
+mp4,Video
+mov,Video
+mkv,Video
+m4v,Video
+h264,Video
+flv,Video
+avi,Video
+3gp,Video
+3g2,Video
+tmp,System
+sys,System
+msi,System
+lnk,System
+ini,System
+ico,System
+icns,System
+drv,System
+dmp,System
+dll,System
+cur,System
+cpl,System
+cfg,System
+cab,System
+bak,System
+xlsx,Spreadsheet
+xlsm,Spreadsheet
+xls,Spreadsheet
+ods,Spreadsheet
+vb,Programming
+swift,Programming
+sh,Programming
+py,Programming
+php,Programming
+java,Programming
+h,Programming
+cs,Programming
+cpp,Programming
+class,Programming
+pl,Programming
+cgi,Programming
+c,Programming
+pptx,Presentation
+ppt,Presentation
+pps,Presentation
+odp,Presentation
+key,Presentation
+xhtml,Internet
+rss,Internet
+py,Internet
+php,Internet
+part,Internet
+jsp,Internet
+js,Internet
+html,Internet
+htm,Internet
+css,Internet
+pl,Internet
+cgi,Internet
+cfm,Internet
+cer,Internet
+aspx,Internet
+asp,Internet
+tiff,Image
+tif,Image
+svg,Image
+psd,Image
+ps,Image
+png,Image
+jpg,Image
+jpeg,Image
+ico,Image
+gif,Image
+bmp,Image
+ai,Image
+ttf,Font
+otf,Font
+fon,Font
+fnt,Font
+wsf,Executable
+py,Executable
+msi,Executable
+jar,Executable
+gadget,Executable
+exe,Executable
+com,Executable
+pl,Executable
+cgi,Executable
+bin,Executable
+bat,Executable
+apk,Executable
+vcf,E-mail
+pst,E-mail
+ost,E-mail
+oft,E-mail
+msg,E-mail
+emlx,E-mail
+eml,E-mail
+email,E-mail
+xml,Data and Database
+tar,Data and Database
+sql,Data and Database
+sav,Data and Database
+mdb,Data and Database
+log,Data and Database
+dbf,Data and Database
+db,Data and Database
+dat,Data and Database
+csv,Data and Database
+vcd,Disc and Media
+toast,Disc and Media
+iso,Disc and Media
+dmg,Disc and Media
+bin,Disc and Media
+zip,Compressed File
+z,Compressed File
+tar.gz,Compressed File
+rpm,Compressed File
+rar,Compressed File
+pkg,Compressed File
+deb,Compressed File
+arj,Compressed File
+7z,Compressed File
+wpl,Audio
+wma,Audio
+wav,Audio
+ogg,Audio
+mpa,Audio
+mp3,Audio
+midi,Audio
+mid,Audio
+cda,Audio
+aif,Audio
